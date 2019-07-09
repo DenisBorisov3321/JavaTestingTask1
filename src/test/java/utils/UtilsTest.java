@@ -21,7 +21,7 @@ public class UtilsTest {
     public void setUpStringsForTesting(){
         inputStrings.add("one");
         inputStrings.add("two");
-        inputStrings.add("three");
+        inputStrings.add("345");
     }
 
     @Test
